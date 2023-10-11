@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![LeetCode Stats](https://leetcard.jacoblin.cool/MahmoudF?theme=dark&font=Asul&ext=heatmap)
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
