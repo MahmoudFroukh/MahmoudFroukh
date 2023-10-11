@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/MahmoudF?ext=heatmap)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/MahmoudF)](https://leetcode.com/MahmoudF)
