@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MahmoudFroukh.MahmoudFroukh)
