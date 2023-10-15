@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-![LeetCode Stats](https://leetcard.jacoblin.cool/MahmoudF?theme=dark&font=Asul&ext=heatmap)
+<!-- a normal html comment --> ![LeetCode Stats](https://leetcard.jacoblin.cool/MahmoudF?theme=dark&font=Asul&ext=heatmap)
 
 <!-- Markdown -->
 
