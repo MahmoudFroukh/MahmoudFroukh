@@ -46,18 +46,18 @@ as a Tier 1 Analyst.
 
 </div>
 
-## Certifications
+### Certifications
 
 <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-00A400?&style=for-the-badge&logo=ISC2&logoColor=white" />
 
 
-## Projects
+### Projects
 
 - OS and Web Application Penetration
 - Securing Cloud Applications
 - <a href="https://github.com/MahmoudFroukh/Active-Directory-Home-Lab/tree/main"> Active Directory Home Lab</a>
 
-## Activities
+### Activities
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Moe2318.png" alt="TryHackMe">
 
