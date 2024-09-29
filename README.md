@@ -25,6 +25,7 @@ as a Tier 1 Analyst.
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-TShark-0A2C42?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-FF69B4?style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-Network%20Miner-FFCC00?&style=for-the-badge&logo=NetworkMiner&logoColor=black" />
 </div>
 
