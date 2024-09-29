@@ -50,7 +50,6 @@ as a Tier 1 Analyst.
 
 <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-00A400?&style=for-the-badge&logo=ISC2&logoColor=white" />
 
-
 ### Projects
 
 - OS and Web Application Penetration
