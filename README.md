@@ -58,7 +58,7 @@ as a Tier 1 Analyst.
 
 ### Activities
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Moe2318.png" alt="TryHackMe">
+
 
 - Linux Capture The Flag (CTF)
 - BuckeyeCTF at The Ohio State University
