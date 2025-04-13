@@ -17,6 +17,7 @@ as a Tier 1 Analyst.
 | OS and Web Application Penetration            | <a href="https://google.com">Detection Lab</a>|
 | Securing Cloud Applications                   | <a href="https://google.com">Detection Lab</a>|
 | Active Directory                              | <a href="https://github.com/MahmoudFroukh/Active-Directory-Home-Lab/tree/main"> Active Directory Home Lab</a> |
+| Help Desk                                     | <a href=https://github.com/MahmoudFroukh/Help-Desk-Knowledge-Base> Help Desk Knowledge Base</a> |
 
 ## Tools
 
@@ -55,6 +56,7 @@ as a Tier 1 Analyst.
 - OS and Web Application Penetration
 - Securing Cloud Applications
 - <a href="https://github.com/MahmoudFroukh/Active-Directory-Home-Lab/tree/main"> Active Directory Home Lab</a>
+- <a href=https://github.com/MahmoudFroukh/Help-Desk-Knowledge-Base> Help Desk Knowledge Base</a>
 
 ### Activities
 
