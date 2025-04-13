@@ -18,7 +18,7 @@ as a Tier 1 Analyst.
 | Securing Cloud Applications                   | <a href="https://google.com">Detection Lab</a>|
 | Active Directory                              | <a href="https://github.com/MahmoudFroukh/Active-Directory-Home-Lab/tree/main"> Active Directory Home Lab</a> |
 | Help Desk                                     | <a href=https://github.com/MahmoudFroukh/Help-Desk-Knowledge-Base> Help Desk Knowledge Base</a> |
-| Ticketing System                              | <a href=https://github.com/MahmoudFroukh/Help-Desk-Knowledge-Base> Ticketing System Simulation</a> |
+| Ticketing System                              | <a href=https://github.com/MahmoudFroukh/Ticketing-System> Ticketing System Simulation</a> |
 
 ## Tools
 
@@ -58,7 +58,7 @@ as a Tier 1 Analyst.
 - Securing Cloud Applications
 - <a href="https://github.com/MahmoudFroukh/Active-Directory-Home-Lab/tree/main"> Active Directory Home Lab</a>
 - <a href=https://github.com/MahmoudFroukh/Help-Desk-Knowledge-Base> Help Desk Knowledge Base</a>
-- <a href=https://github.com/MahmoudFroukh/Help-Desk-Knowledge-Base> Ticketing System Simulation</a>
+- <a href=https://github.com/MahmoudFroukh/Ticketing-System> Ticketing System Simulation</a>
 
 ### Activities
 
