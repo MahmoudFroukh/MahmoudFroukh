@@ -12,7 +12,7 @@ as a Tier 1 Analyst.
 
 ## Skills
 
-| **Skill**                                         | Associated Project         |
+| Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | OS and Web Application Penetration            | <a href="https://google.com">Detection Lab</a>|
 | Securing Cloud Applications                   | <a href="https://google.com">Detection Lab</a>|
