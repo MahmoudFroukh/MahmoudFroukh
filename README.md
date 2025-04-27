@@ -4,7 +4,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 
-I'm a computer science student interested in cybersecurity and dedicated to solving complex problems.
+I'm a computer and information science student and a help desk technician interested in cybersecurity and dedicated to solving complex problems.
 
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am eager to get into the field, specifically to join a Security Operations Center (SOC) 
@@ -41,6 +41,7 @@ as a Tier 1 Analyst.
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-00BFFF?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ### Threat Intelligence Platform
