@@ -47,6 +47,13 @@ as a Tier 1 Analyst.
 ### Threat Intelligence Platform
 <div>
     <img src="https://img.shields.io/badge/-OpenCTI-1E90FF?&style=for-the-badge&logo=OpenCTI&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ANY.RUN-4169E1?&style=for-the-badge&logo=Any.run&logoColor=white" />
+</div>
+
+### Enrichment Tools
+<div>
+    <img src="https://img.shields.io/badge/-VirusTotal-1E90FF?&style=for-the-badge&logo=VirusTotal&logColor=white" />
+    <img src="https://img.shields.io/badge/-Shodan-DC143C?&style=for-the-badge&logo=Shodan&logColor=white" />
 </div>
 
 ### Certifications
