@@ -19,6 +19,7 @@ as a Tier 1 Analyst.
 | Active Directory                              | <a href="https://github.com/MahmoudFroukh/Active-Directory-Home-Lab/tree/main"> Active Directory Home Lab</a> |
 | Help Desk                                     | <a href=https://github.com/MahmoudFroukh/Help-Desk-Knowledge-Base> Help Desk Knowledge Base</a> |
 | Ticketing System                              | <a href=https://github.com/MahmoudFroukh/Ticketing-System> Ticketing System Simulation</a> |
+| Documentation                                 | <a href=https://github.com/MahmoudFroukh/Installing-WSL> Installing WSL</a> |
 
 ## Tools
 
