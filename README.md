@@ -3,19 +3,14 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
-
-I'm a computer and information science student and a help desk technician interested in cybersecurity and dedicated to solving complex problems.
-
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity, and I am eager to get into the field, specifically to join a Security Operations Center (SOC) 
-as a Tier 1 Analyst.
 
-## Skills
+I'm a computer and information science student and a help desk technician interested in cybersecurity and dedicated to solving complex problems. My journey in computer science has led me to develop a passion for cybersecurity, and I am eager to get into the field, specifically to be an IAM analyst.
+
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| OS and Web Application Penetration            | <a href="https://google.com">Detection Lab</a>|
-| Securing Cloud Applications                   | <a href="https://google.com">Detection Lab</a>|
 | Active Directory                              | <a href="https://github.com/MahmoudFroukh/Active-Directory"> Active Directory Home Lab</a> |
 | Help Desk                                     | <a href=https://github.com/MahmoudFroukh/Help-Desk-Knowledge-Base> Help Desk Knowledge Base</a> |
 | Ticketing System                              | <a href=https://github.com/MahmoudFroukh/Ticketing-System> Ticketing System Simulation</a> |
@@ -60,15 +55,6 @@ as a Tier 1 Analyst.
 ### Certifications
 
 <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-00A400?&style=for-the-badge&logo=ISC2&logoColor=white" />
-
-### Projects
-
-- OS and Web Application Penetration
-- Securing Cloud Applications
-- <a href="https://github.com/MahmoudFroukh/Active-Directory"> Active Directory Home Lab</a>
-- <a href=https://github.com/MahmoudFroukh/Help-Desk-Knowledge-Base> Help Desk Knowledge Base</a>
-- <a href=https://github.com/MahmoudFroukh/Ticketing-System> Ticketing System Simulation</a>
-- <a href=https://github.com/MahmoudFroukh/Installing-WSL> Installing WSL</a>
 
 ### Activities
 
