@@ -5,8 +5,6 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/MahmoudF.png" alt="Your Image Badge" />
 </a>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
-
 ## Objective
 
 I'm a computer and information science student and a help desk technician with a strong intereset in cybersecurity and a passion for solving complex problems. My journey in computer science has led me to develop a passion for cybersecurity, and I am eager to get into the field, particularly in identity and access management.
