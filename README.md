@@ -58,7 +58,4 @@ I'm a computer and information science student and a help desk technician with a
 
 ### Activities
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Moe2318.png?style=flat&cache-control=no-cache" alt="TryHackMe">
-
-- Linux Capture The Flag (CTF)
-- BuckeyeCTF at The Ohio State University
+<img src="https://tryhackme-badges.s3.amazonaws.com/MahmoudF.png" alt="Your Image Badge" />
