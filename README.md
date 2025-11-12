@@ -16,7 +16,7 @@ as a Tier 1 Analyst.
 |-----------------------------------------------|----------------------------|
 | OS and Web Application Penetration            | <a href="https://google.com">Detection Lab</a>|
 | Securing Cloud Applications                   | <a href="https://google.com">Detection Lab</a>|
-| Active Directory                              | <a href="https://github.com/MahmoudFroukh/Active-Directory-Home-Lab/tree/main"> Active Directory Home Lab</a> |
+| Active Directory                              | <a href="https://github.com/MahmoudFroukh/Active-Directory"> Active Directory Home Lab</a> |
 | Help Desk                                     | <a href=https://github.com/MahmoudFroukh/Help-Desk-Knowledge-Base> Help Desk Knowledge Base</a> |
 | Ticketing System                              | <a href=https://github.com/MahmoudFroukh/Ticketing-System> Ticketing System Simulation</a> |
 | Documentation                                 | <a href=https://github.com/MahmoudFroukh/Installing-WSL> Installing WSL</a> |
