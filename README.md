@@ -1,6 +1,8 @@
 # Hello, I'm Mahmoud Froukh
 <a href="https://www.linkedin.com/in/mahmoud-froukh/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/MahmoudF.png" alt="Your Image Badge" />
+
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
 
 ## Objective
@@ -55,7 +57,3 @@ I'm a computer and information science student and a help desk technician with a
 ### Certifications
 
 <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity-00A400?&style=for-the-badge&logo=ISC2&logoColor=white" />
-
-### Activities
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/MahmoudF.png" alt="Your Image Badge" />
