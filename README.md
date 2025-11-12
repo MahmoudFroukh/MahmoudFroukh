@@ -5,7 +5,7 @@
 
 ## Objective
 
-I'm a computer and information science student and a help desk technician interested in cybersecurity and dedicated to solving complex problems. My journey in computer science has led me to develop a passion for cybersecurity, and I am eager to get into the field, specifically to be an IAM analyst.
+I'm a computer and information science student and a help desk technician with a strong intereset in cybersecurity and a passion for solving complex problems. My journey in computer science has led me to develop a passion for cybersecurity, and I am eager to get into the field, particularly in identity and access management.
 
 ## Projects
 
